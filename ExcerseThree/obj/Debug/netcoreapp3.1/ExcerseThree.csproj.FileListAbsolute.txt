@@ -1,0 +1,13 @@
+C:\RevatureT\adam-code\ExcerseThree\bin\Debug\netcoreapp3.1\ExcerseThree.exe
+C:\RevatureT\adam-code\ExcerseThree\bin\Debug\netcoreapp3.1\ExcerseThree.deps.json
+C:\RevatureT\adam-code\ExcerseThree\bin\Debug\netcoreapp3.1\ExcerseThree.runtimeconfig.json
+C:\RevatureT\adam-code\ExcerseThree\bin\Debug\netcoreapp3.1\ExcerseThree.runtimeconfig.dev.json
+C:\RevatureT\adam-code\ExcerseThree\bin\Debug\netcoreapp3.1\ExcerseThree.dll
+C:\RevatureT\adam-code\ExcerseThree\bin\Debug\netcoreapp3.1\ExcerseThree.pdb
+C:\RevatureT\adam-code\ExcerseThree\obj\Debug\netcoreapp3.1\ExcerseThree.csprojAssemblyReference.cache
+C:\RevatureT\adam-code\ExcerseThree\obj\Debug\netcoreapp3.1\ExcerseThree.AssemblyInfoInputs.cache
+C:\RevatureT\adam-code\ExcerseThree\obj\Debug\netcoreapp3.1\ExcerseThree.AssemblyInfo.cs
+C:\RevatureT\adam-code\ExcerseThree\obj\Debug\netcoreapp3.1\ExcerseThree.csproj.CoreCompileInputs.cache
+C:\RevatureT\adam-code\ExcerseThree\obj\Debug\netcoreapp3.1\ExcerseThree.dll
+C:\RevatureT\adam-code\ExcerseThree\obj\Debug\netcoreapp3.1\ExcerseThree.pdb
+C:\RevatureT\adam-code\ExcerseThree\obj\Debug\netcoreapp3.1\ExcerseThree.genruntimeconfig.cache

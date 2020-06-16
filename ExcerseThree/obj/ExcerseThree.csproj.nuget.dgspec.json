@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\revatureT\\adam-code\\ExcerseThree\\ExcerseThree.csproj": {}
+    "C:\\RevatureT\\adam-code\\ExcerseThree\\ExcerseThree.csproj": {}
   },
   "projects": {
-    "C:\\revatureT\\adam-code\\ExcerseThree\\ExcerseThree.csproj": {
+    "C:\\RevatureT\\adam-code\\ExcerseThree\\ExcerseThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\revatureT\\adam-code\\ExcerseThree\\ExcerseThree.csproj",
+        "projectUniqueName": "C:\\RevatureT\\adam-code\\ExcerseThree\\ExcerseThree.csproj",
         "projectName": "ExcerseThree",
-        "projectPath": "C:\\revatureT\\adam-code\\ExcerseThree\\ExcerseThree.csproj",
+        "projectPath": "C:\\RevatureT\\adam-code\\ExcerseThree\\ExcerseThree.csproj",
         "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-        "outputPath": "C:\\revatureT\\adam-code\\ExcerseThree\\obj\\",
+        "outputPath": "C:\\RevatureT\\adam-code\\ExcerseThree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config"
