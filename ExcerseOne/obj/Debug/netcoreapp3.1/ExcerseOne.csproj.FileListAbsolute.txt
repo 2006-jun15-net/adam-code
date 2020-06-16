@@ -1,0 +1,13 @@
+C:\RevatureT\adam-code\ExcerseOne\bin\Debug\netcoreapp3.1\ExcerseOne.exe
+C:\RevatureT\adam-code\ExcerseOne\bin\Debug\netcoreapp3.1\ExcerseOne.deps.json
+C:\RevatureT\adam-code\ExcerseOne\bin\Debug\netcoreapp3.1\ExcerseOne.runtimeconfig.json
+C:\RevatureT\adam-code\ExcerseOne\bin\Debug\netcoreapp3.1\ExcerseOne.runtimeconfig.dev.json
+C:\RevatureT\adam-code\ExcerseOne\bin\Debug\netcoreapp3.1\ExcerseOne.dll
+C:\RevatureT\adam-code\ExcerseOne\bin\Debug\netcoreapp3.1\ExcerseOne.pdb
+C:\RevatureT\adam-code\ExcerseOne\obj\Debug\netcoreapp3.1\ExcerseOne.csprojAssemblyReference.cache
+C:\RevatureT\adam-code\ExcerseOne\obj\Debug\netcoreapp3.1\ExcerseOne.AssemblyInfoInputs.cache
+C:\RevatureT\adam-code\ExcerseOne\obj\Debug\netcoreapp3.1\ExcerseOne.AssemblyInfo.cs
+C:\RevatureT\adam-code\ExcerseOne\obj\Debug\netcoreapp3.1\ExcerseOne.csproj.CoreCompileInputs.cache
+C:\RevatureT\adam-code\ExcerseOne\obj\Debug\netcoreapp3.1\ExcerseOne.dll
+C:\RevatureT\adam-code\ExcerseOne\obj\Debug\netcoreapp3.1\ExcerseOne.pdb
+C:\RevatureT\adam-code\ExcerseOne\obj\Debug\netcoreapp3.1\ExcerseOne.genruntimeconfig.cache
